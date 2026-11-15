@@ -142,13 +142,19 @@ I'm a **Cloud & DevOps Engineer** and **B.Tech graduate in AI & Data Science** f
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senthamizhvelan04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <a href="https://github.com/senthamizhvelan04">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=senthamizhvelan04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  </a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthamizhvelan04&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+  <a href="https://github.com/senthamizhvelan04">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=senthamizhvelan04&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthamizhvelan04&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/senthamizhvelan04">
+    <img src="https://streak-stats.demolab.com/?user=senthamizhvelan04&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
