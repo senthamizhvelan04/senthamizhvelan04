@@ -143,11 +143,17 @@ I'm a **Cloud & DevOps Engineer** and **B.Tech graduate in AI & Data Science** f
 
 <p align="center">
   <a href="https://github.com/senthamizhvelan04">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=senthamizhvelan04&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senthamizhvelan04&theme=github_dark" alt="Profile Details"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/senthamizhvelan04">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=senthamizhvelan04&theme=github_dark" alt="Stats" height="170"/>
   </a>
   &nbsp;
   <a href="https://github.com/senthamizhvelan04">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=senthamizhvelan04&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senthamizhvelan04&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="170"/>
   </a>
 </p>
 
