@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="mailto:senthamizhvelanm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/senthamizhvelan04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/senthamizhvelan04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://senthamizhvelan04.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -93,7 +94,7 @@ I'm a **Cloud & DevOps Engineer** and **B.Tech graduate in AI & Data Science** f
       <h3 align="center">TaskFlow</h3>
       <p align="center">Cloud & DevOps Automation on AWS</p>
       <p align="center">
-        <a href="https://github.com/senthamizhvelan04/TaskFlow"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/senthamizhvelan04/taskflow-devops"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
       <p>
         End-to-end DevOps pipeline featuring Terraform-provisioned AWS infrastructure, 5-stage Jenkins CI/CD, Docker Compose multi-service deployment, and Prometheus + Grafana observability — all with AI-assisted development.
@@ -111,7 +112,7 @@ I'm a **Cloud & DevOps Engineer** and **B.Tech graduate in AI & Data Science** f
       <h3 align="center">ExamPrep</h3>
       <p align="center">AI-Powered Question Paper Generator</p>
       <p align="center">
-        <a href="https://github.com/senthamizhvelan04/ExamPrep"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/senthamizhvelan04/Question-paper-generator"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
       <p>
         Full-stack AI application (7,700+ LOC) with GitHub Actions CI/CD, multi-stage Docker builds (27 MB image), dual-provider AI (Gemini + Llama 3.3 70B) with automatic failover, and 4 export formats.
